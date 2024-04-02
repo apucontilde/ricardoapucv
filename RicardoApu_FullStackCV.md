@@ -12,7 +12,7 @@ Experienced Backend Developer proficient also in Frontend with 6+ years of exper
 
 ### Technical Skills
 
-Python | Django | FastAPI | Javascript | TypeScript | Node | Bun | NPM | ExpressJS | HTML | CSS | SCSS | React | Angular | Laravel | PHP | SQL | PostgreSQL | MySQL | MariaDB | MongoDB | Cassandra | Java EE | Bash Scripting | Git | REST APIs
+Python | Django | FastAPI | Javascript | TypeScript | Node | Bun | NPM | ExpressJS | HTML | CSS | SCSS | React | Angular | Laravel | PHP | SQL | PostgreSQL | MySQL | MariaDB | MongoDB | Cassandra | Java EE | Bash Scripting | Git | REST APIs | AWS | GCP | Azure
 
 ### Professional Experience
 
