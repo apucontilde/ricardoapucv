@@ -19,11 +19,11 @@ Python | Django | FastAPI | Javascript | TypeScript | Node | Bun | NPM | Express
 - Gorilla Logic (Oct 2020 - Nov 2023) _Mid Fullstack Engineer_
 
   - Supported and maintained a multi-tenant Django app providing web stores for gyms and salons.
-  - Accelerate
+  - Helped build and maintain a React webapp and its Node backend used by members of the HIMSS association.
 
 - EYCA (Jul 2019 - Oct 2020) _Fullstack Developer_
 
-  - Maintained a React webpage and its Express RESTful API and MongoDB database.
+  - Maintained a React webapp and its Express RESTful API and MongoDB database.
   - Maintained an Ionic multi-platform app using Angular and and existing backend stack.
 
 - Independent (Oct 2018 - Aug 2019) _Software Consultant_
