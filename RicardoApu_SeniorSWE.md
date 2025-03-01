@@ -1,3 +1,6 @@
+---
+geometry: margin=1.5cm
+---
 ## Ricardo Apú
 
 ### Senior Software Engineer
